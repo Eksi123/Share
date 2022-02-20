@@ -3,6 +3,8 @@
 ## Python
 
 * [Python编程与机器学习入门资料](https://pan.baidu.com/s/19Oxog4ykWQSZEBeZZOCwCg?pwd=44p4)
+* [Python数据结构基础](https://github.com/Eksi123/Share/tree/main/Datebase%20Learning)
+* [Python常用API介绍](https://github.com/Eksi123/Share/tree/main/Python%20-%20API)
 
 ## Latex
 
