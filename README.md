@@ -8,7 +8,7 @@
 
 ## Latex
 
-* [Latex学习笔记](https://github.com/Eksi123/Codebase/tree/main/%E5%85%B6%E4%BB%96/Latex%E7%AC%94%E8%AE%B0)
+* [Latex学习笔记](https://github.com/Eksi123/Share/tree/main/Latex)
 
 *后续资料还会陆续更新……*
 
